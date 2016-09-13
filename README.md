@@ -1,4 +1,4 @@
-Aka = Noœkeè
+Aka = Noœkè
 
 A website built by myself and Trenton Lawton during our responsive design class taken at Macys.com.
 
