@@ -1,0 +1,55 @@
+ .mdl-cell {
+            margin: 0 !important;
+        }
+        .mdl-grid {
+            padding: 0 !important;
+        }
+        body {
+            background-color: #66666d;
+        }
+        #men-woman {
+            background-color: white;
+            opacity: .7;
+            color: black;
+            font-family: "Roboto", sans-serif;
+            font-weight: 100;
+            font-size: 2em;
+            padding: 98px 28px 0px 12px;
+            position: fixed;
+            z-index: 99;
+        }
+        .mdl-button {
+            color: black !important;
+        }
+        #noke-list {
+            
+        }
+        .mdl-card__title {
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position-y: -350px;
+        }
+        #noke-title {
+            opacity: .4;
+            color: black;
+            z-index: 100;
+            position: fixed;
+            font-family: "Roboto", sans-serif;
+            font-size: 5em;
+            font-weight: 300;
+            padding: 48px 0px 0px 8px;
+            left: 0;
+        }
+        .demo-card-wide:hover {
+            opacity: .7;
+        }
+        .demo-card-wide.mdl-card {
+          width: 100%;
+        }
+        .demo-card-wide > .mdl-card__title {
+          color: #fff;
+          height: 500px;
+        }
+        .demo-card-wide > .mdl-card__menu {
+          color: #fff;
+        }

@@ -1,0 +1,44 @@
+ #men-woman {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-size: 2em;
+    margin: 106px 0px 0px 12px;
+    position: fixed;
+}
+.mdl-button {
+    color: black !important;
+}
+#noke-list {
+    padding-left: 220px;
+}
+#noke-title {
+    position: fixed;
+    font-family: "Roboto", sans-serif;
+    font-size: 5em;
+    font-weight: 300;
+    margin: 48px 0px 0px 8px;
+    left: 0;
+}
+.demo-card-wide.mdl-card {
+  width: 512px;
+}
+.demo-card-wide > .mdl-card__title {
+    color: #fff;
+    height: 250px;
+    padding: 0;
+}
+.demo-card-wide > .mdl-card__menu {
+  color: #fff;
+}
+.demo-card-wide {
+    margin: 16px;
+}
+
+.mdl-card__title-text {
+    padding-left: 15px;
+}
+
+h2 {
+    width: 100%;
+    background-color: rgba(0,0,0,.7);
+}
