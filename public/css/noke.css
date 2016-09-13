@@ -38,6 +38,10 @@
     padding-left: 15px;
 }
 
+.material-icons {
+    color: white;
+}
+
 h2 {
     width: 100%;
     background-color: rgba(0,0,0,.7);
