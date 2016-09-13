@@ -1,4 +1,4 @@
-![GitHub Logo](/noke_screenshot.png)
+![GitHub Logo](/noke.png)
 
 Aka = Noœkè
 
